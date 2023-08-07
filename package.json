@@ -1,11 +1,12 @@
 {
   "name": "oimo-esm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "JavaScript 3D physics engine.",
   "main": "build/oimo.module.js",
   "repository": "lo-th/oimo",
   "jsnext:main": "build/oimo.module.js",
   "module": "build/oimo.module.js",
+  "type": "module",
   "files": [
     "package.json",
     "LICENSE",
