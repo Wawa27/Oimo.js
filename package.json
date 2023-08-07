@@ -2,7 +2,7 @@
   "name": "oimo",
   "version": "1.0.9",
   "description": "JavaScript 3D physics engine.",
-  "main": "build/oimo.min.js",
+  "main": "build/oimo.module.js",
   "repository": "lo-th/oimo",
   "jsnext:main": "build/oimo.module.js",
   "module": "build/oimo.module.js",
